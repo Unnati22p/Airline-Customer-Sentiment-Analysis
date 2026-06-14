@@ -110,7 +110,7 @@ The dataset contains airline-related tweets collected from Twitter.
 
 ### Sentiment by Airline
 
-![Sentiment by Airline](images/sentiment_by_airline.png)
+![Sentiment by Airline](images/sentiment_per_airline.png)
 
 ### Confusion Matrix
 
@@ -118,7 +118,7 @@ The dataset contains airline-related tweets collected from Twitter.
 
 ### Word Cloud Analysis
 
-![Word Cloud](images/wordcloud_negative_tweets.png)
+![Word Cloud](images/negative_wordcloud.png)
 
 ---
 
